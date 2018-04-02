@@ -3,7 +3,7 @@ node_js:
   - "node"
 
 install:
-  -npm install
+  - npm install
 
 script:
   - hexo clean
